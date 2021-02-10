@@ -7,6 +7,11 @@ name = "pypi"
 solax = "*"
 pytest = "*"
 apscheduler = "*"
+loguru = "*"
+stringcase = "*"
+tortoise-orm = "*"
+typer = "*"
+pyinstaller = "*"
 
 [dev-packages]
 
